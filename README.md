@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ryan Cheung! 👋
 
-<!--
-**RyanCheung03/RyanCheung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Concordia Software Engineering Student with a keen interest in creating innovative solutions and tracking NHL statistics. I love working with JavaScript and have experience in both frontend and backend development. I'm always eager to learn and explore new technologies!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning advanced data analysis techniques.
+- 💼 I'm working on the [NHL Stat Tracking Website](https://github.com/RyanCheung03/NHL-Stat-Tracking-Website).
+- 📫 How to reach me: [ryanch246@gmail.com](mailto:ryanch246@gmail.com)
+- 🚀 Fun fact: I enjoy analyzing sports statistics and have been playing hockey for over 15 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- **Languages**: Java, C#, C++, C, Python, JavaScript, HTML5, CSS, SQL (MySQL), Clojure, Erlang
+- **Frameworks**: Node.js, ReactJS, Express.js, .NET, Windows Forms
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ryan-cheung-a251b3309)
+- [ryanch246@gmail.com](mailto:ryanch246@gmail.com)
+
+Thanks for visiting! Have a great day! 😄
