@@ -9,7 +9,7 @@ I'm a Concordia Software Engineering Student with a keen interest in creating in
 - 🚀 Fun fact: I enjoy analyzing sports statistics and have been playing hockey for over 15 years.
 
 ## Technologies & Tools
-- **Languages**: Java, C#, C++, C, Python, JavaScript, HTML5, CSS, SQL (MySQL), Clojure, Erlang
+- **Languages**: Java, C#, C++, C, Python, JavaScript, HTML5, CSS, MySQL, Clojure, Erlang
 - **Frameworks**: Node.js, ReactJS, Express.js, .NET, Windows Forms
 
 ## Connect with Me
