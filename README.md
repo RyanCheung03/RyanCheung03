@@ -12,7 +12,7 @@ I’m a Software Engineering student at Concordia University passionate about bu
 - **Frameworks**: Node.js, React, Bootstrap, Express.js, .NET, Windows Forms, ASP.NET
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ryancheung03/)
+- [LinkedIn](https://www.linkedin.com/in/ryan-cheung-a251b3309/)
 - [ryanch246@gmail.com](mailto:ryanch246@gmail.com)
 
 Thanks for visiting! Have a great day! 😄
